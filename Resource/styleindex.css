@@ -1,0 +1,56 @@
+.nav{
+    display: inline-flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+li{
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 1.25%;
+    display: inline-flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+a{
+    text-decoration: none;
+    float: left;
+    display: block;
+    color: black;
+    font-size: 120%;
+    font-weight: 550;
+    text-align: center;
+}
+
+.responsive{
+    max-width: 40%;
+    max-height: 40%;
+}
+
+form{
+    float: right;
+}
+
+h1{
+    color: red;
+    margin: 0 auto;
+    text-align: center;
+    padding: 4.5%;
+}
+
+.shadow{
+    box-shadow: 2px 2px 2px 2px gray;
+    margin: 1%;
+    text-align: center;
+    padding: 0.5%;
+    display: inline-block;
+    size: 25%;
+}
+
+.bx{
+    background-color: orangered;
+    margin: 0 auto;
+}

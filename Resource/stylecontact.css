@@ -1,0 +1,10 @@
+label{
+    padding: .5%;
+    font-size: large;
+}
+
+input[type=text] {
+    padding: .25%;
+    margin: 5px 0;
+    box-sizing: border-box;
+  }
